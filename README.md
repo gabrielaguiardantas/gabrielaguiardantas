@@ -89,4 +89,4 @@ I created these images, feel free to use them.
 <br>
 <br>
 
-⭐️ Readme baseado em [Onimur](https://github.com/onimur/onimur)
+⭐️ Readme baseado em [Onimur](https://github.com/onimur)
