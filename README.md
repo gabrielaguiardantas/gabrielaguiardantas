@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 Economista por formação (Universidade Federal do Espírito Santo), trabalhei como Agente de Pesquisa e mapeamento do IBGE e pude estar em contato com todo tipo de família e classe social. Esse trabalho me proporcionou desenvolver habilidades comunicativas, seja realizando pesquisas sociais in loco (domicílio) seja ajudando outros agentes com dificuldade ou em treinamento (supervisão). 
 
-Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudança para uma área que sempre gostei desde pequeno (tecnologia e computadores). Desejo atuar como Desenvolvedor Web e estou me capacitando nas stack React, Redux, Javascript, HTML, CSS, dentre outras...
+Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudança para uma área que sempre gostei (tecnologia e computadores). Desejo atuar como Desenvolvedor Web e estou me capacitando nas stack React, Redux, Javascript, HTML, CSS, dentre outras...
 
 
 
