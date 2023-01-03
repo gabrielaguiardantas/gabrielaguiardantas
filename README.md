@@ -31,7 +31,7 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 - 🌱 Estou no módulo de FrontEnd, aprendendo sobre Context API e React Hooks;
 - :video_game: Apaixonado por games, RPGs em especial;
 - :baby: Pai do Gael;
-- 💬 Genuína vontade de aprender e ajudar/ensinar o que sei;
+- 💬 Genuína vontade de aprender e ajudar/ensinar;
 - 📫 Contato: gabrielaguiardantas@yahoo.com.br;
 
 **Tecnologias e ferramentas:** 
