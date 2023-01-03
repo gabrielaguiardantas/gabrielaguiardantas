@@ -40,7 +40,7 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-    <img width="55%" align="right" alt="Gabriel Aguiar Dantas's github stats" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiardantas&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Gabriel Aguiar Dantas's github stats" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiardantas&show_icons=true&hide_border=true&locale=pt-br"/>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
