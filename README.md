@@ -40,7 +40,7 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-    <img width="55%" align="right" alt="Gabriel Aguiar Dantas's github stats" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiardantas&show_icons=true&hide_border=true&locale=pt-br"/>
+    <img width="55%" align="right" alt="Gabriel Aguiar Dantas's github stats" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiardantas&show_icons=true&include_all_commits=true&hide_border=true&locale=pt-br"/>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -60,21 +60,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 -->
+<br>
 <p align="center">
-  <img alt="ViewCount" src="https://visitor-badge.glitch.me/badge?page_id=gabrielaguiardantas&left_color=grey&right_color=blue" />
+  <img alt="ViewCount" src="https://visitor-badge.glitch.me/badge?page_id=gabrielaguiardantas&left_text=visitantes&left_color=grey&right_color=blue" />
 </p>
 
-## Apoie-me:
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-<p align="center">
-  <a href="https://www.paypal.com/donate/?business=KUMLE2NTRRBYW&no_recurring=0&currency_code=BRL" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://picpay.me/gabriel.aguiar.dantas" target="_blank">
-      <img width="18%" alt="Donate with Picpay" src="https://user-images.githubusercontent.com/110852595/210363341-6065a1fd-3aa6-4762-893e-b41f786964f2.svg"/>
-  </a>
+<p>
+    <img width="40%" align="left" alt="Gabriel Aguiar Dantas's github top language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiardantas&hide_border=true&locale=pt-br&layout=compact"/>
 </p>
 
 <!-- Its main projects -->
@@ -82,11 +74,6 @@ I created these images, feel free to use them.
 
 </p>
 
-
-<br>
-<br>
-<br>
-<br>
 <br>
 
-⭐️ Readme baseado em [Onimur](https://github.com/onimur)
+⭐️ Baseado em [Onimur](https://github.com/onimur)
