@@ -57,23 +57,28 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://user-images.githubusercontent.com/110852595/210371903-a4193ae8-5141-431d-a128-3ce1e763e556.svg"></code>
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
--->
-<br>
-<p align="center">
-  <img alt="ViewCount" src="https://visitor-badge.glitch.me/badge?page_id=gabrielaguiardantas&left_text=visitantes&left_color=grey&right_color=blue" />
-</p>
-
 <p>
     <img width="40%" align="left" alt="Gabriel Aguiar Dantas's github top language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiardantas&hide_border=true&locale=pt-br&layout=compact"/>
 </p>
 
 <!-- Its main projects -->
 <p align="center">
-
+ <a title="Projetos desenvolvidos na Trybe" role="link" target="_blank" rel="noopener noreferrer nofollow" class="text-bold" href="https://www.w3schools.com">Projetos desenvolvidos na Trybe</a>
 </p>
 
 <br>
+
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+-->
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img alt="ViewCount" src="https://visitor-badge.glitch.me/badge?page_id=gabrielaguiardantas&left_text=visitantes&left_color=grey&right_color=blue" />
+</p>
 
 ⭐️ Baseado em [Onimur](https://github.com/onimur)
