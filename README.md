@@ -65,7 +65,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <!-- Its main projects -->
 <p align="center">
-         <a title="Projetos desenvolvidos na Trybe" role="link" target="_blank" rel="noopener noreferrer nofollow"                                                href="https://github.com/gabrielaguiardantas/GADev/blob/main/Trybe-projetos">Projetos desenvolvidos na Trybe</a>
+    <a title="Projetos desenvolvidos na Trybe" role="link" rel="noopener noreferrer nofollow"                       href="https://github.com/gabrielaguiardantas/GADev/blob/main/Trybe-projetos">
+    Projetos desenvolvidos na Trybe
+    </a>
 </p>
 
 <br>
