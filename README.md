@@ -57,7 +57,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
   <code><img width="10%" src="https://user-images.githubusercontent.com/110852595/210371903-a4193ae8-5141-431d-a128-3ce1e763e556.svg"></code>
   <br />
-  <code><img width="10%" src="https://user-images.githubusercontent.com/110852595/211046003-a71445ad-6675-4a69-9f03-7fa033bae2d4.jpg"></code>
+  <code><img width="10%" src="https://user-images.githubusercontent.com/110852595/211061557-aed8f672-d3c8-456f-91dd-e049590ec2d7.jpg"></code>
 </p>
 <p>
     <img width="40%" align="left" alt="Gabriel Aguiar Dantas's github top language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiardantas&hide_border=true&locale=pt-br&layout=compact"/>
@@ -65,7 +65,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <!-- Its main projects -->
 <p align="center">
- <a title="Projetos desenvolvidos na Trybe" role="link" target="_blank" rel="noopener noreferrer nofollow" class="text-bold" href="https://www.w3schools.com">Projetos desenvolvidos na Trybe</a>
+         <a title="Projetos desenvolvidos na Trybe" role="link" target="_blank" rel="noopener noreferrer nofollow"                                                href="https://www.w3schools.com">Projetos desenvolvidos na Trybe</a>
 </p>
 
 <br>
