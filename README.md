@@ -54,9 +54,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
   <code><img width="10%" src="https://user-images.githubusercontent.com/110852595/210371903-a4193ae8-5141-431d-a128-3ce1e763e556.svg"></code>
+  <br />
+  <code><img width="10%" src="https://user-images.githubusercontent.com/110852595/211046003-a71445ad-6675-4a69-9f03-7fa033bae2d4.jpg"></code>
 </p>
-
 <p>
     <img width="40%" align="left" alt="Gabriel Aguiar Dantas's github top language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiardantas&hide_border=true&locale=pt-br&layout=compact"/>
 </p>
@@ -71,11 +73,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 -->
-<br>
-<br>
-<br>
-<br>
-<br>
+<br />
 
 <p align="center">
   <img alt="ViewCount" src="https://visitor-badge.glitch.me/badge?page_id=gabrielaguiardantas&left_text=visitantes&left_color=grey&right_color=blue" />
