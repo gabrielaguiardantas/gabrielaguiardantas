@@ -78,7 +78,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 <br />
 
 <p align="center">
-  <img alt="ViewCount" src="https://visitor-badge.glitch.me/badge?page_id=gabrielaguiardantas&left_text=visitantes&left_color=grey&right_color=blue" />
+  <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=gabrielaguiardantas&label=visitantes&color=blue&style=plastic" />
 </p>
 
 ⭐️ Baseado em [Onimur](https://github.com/onimur)
