@@ -28,7 +28,7 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 <img width="55%" align="right" alt="Code typing-bro" src="https://user-images.githubusercontent.com/110852595/210355940-a51b0530-877b-4ac9-a776-472af9c5a50e.svg" />
 
 - 👨🏽‍💻 Estudante da Trybe, Desenvolvimento Web;
-- 🌱 Estou no módulo de FrontEnd, aprendendo sobre Context API e React Hooks;
+- 🌱 Estou no módulo de BackEnd, aprendendo sobre Programação Orientada a Objetos (POO) e SOLID;
 - :video_game: Apaixonado por games, RPGs em especial;
 - :baby: Pai do Gael;
 - 💬 Genuína vontade de aprender e ajudar/ensinar;
