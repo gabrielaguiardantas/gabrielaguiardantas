@@ -58,6 +58,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://user-images.githubusercontent.com/110852595/210371903-a4193ae8-5141-431d-a128-3ce1e763e556.svg"></code>
   <br />
   <code><img width="10%" src="https://user-images.githubusercontent.com/110852595/211061557-aed8f672-d3c8-456f-91dd-e049590ec2d7.jpg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 </p>
 <p>
     <img width="40%" align="left" alt="Gabriel Aguiar Dantas's github top language stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielaguiardantas&hide_border=true&locale=pt-br&layout=compact"/>
