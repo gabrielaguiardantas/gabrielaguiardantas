@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Oi, Eu sou Gabriel Aguiar Dantas, desenvolvedor web :technologist: em formação.
+## Oi, Eu sou Gabriel Aguiar Dantas, desenvolvedor web FULL-STACK :technologist: em formação.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 Economista por formação (Universidade Federal do Espírito Santo), trabalhei como Agente de Pesquisa e mapeamento do IBGE e pude estar em contato com todo tipo de família e classe social. Esse trabalho me proporcionou desenvolver habilidades comunicativas, seja realizando pesquisas sociais in loco (domicílio) seja ajudando outros agentes com dificuldade ou em treinamento (supervisão). 
 
-Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudança para uma área que sempre gostei (tecnologia e computadores). Desejo atuar como Desenvolvedor Web e estou me capacitando nas stack React, Redux, Javascript, HTML, CSS, dentre outras...
+Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudança para uma área que sempre gostei (tecnologia e computadores). Desejo atuar como Desenvolvedor Web e estou me capacitando nas stacks React, Redux, Javascript, HTML, CSS, Typescript, Sql, Docker, dentre outras...
 
 
 
@@ -28,7 +28,7 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 <img width="55%" align="right" alt="Code typing-bro" src="https://user-images.githubusercontent.com/110852595/210355940-a51b0530-877b-4ac9-a776-472af9c5a50e.svg" />
 
 - 👨🏽‍💻 Estudante da Trybe, Desenvolvimento Web;
-- 🌱 Estou no módulo de BackEnd, aprendendo sobre Programação Orientada a Objetos (POO) e SOLID;
+- 🌱 Estou iniciando o módulo de Ciência da Computação, aprendendo sobre Python;
 - :video_game: Apaixonado por games, RPGs em especial;
 - :baby: Pai do Gael;
 - 💬 Genuína vontade de aprender e ajudar/ensinar;
@@ -60,6 +60,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://user-images.githubusercontent.com/110852595/211061557-aed8f672-d3c8-456f-91dd-e049590ec2d7.jpg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
+  <br />
+  <code><img width="10%" src="https://cdn.svgporn.com/logos/typescript.svg?response-content-disposition=attachment%3Bfilename%3Dtypescript.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>  
 </p>
 <p>
     <img width="40%" align="left" alt="Gabriel Aguiar Dantas's github top language stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielaguiardantas&hide_border=true&locale=pt-br&layout=compact"/>
