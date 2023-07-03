@@ -32,7 +32,7 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 - :video_game: Apaixonado por games, RPGs em especial;
 - :baby: Pai do Gael;
 - 💬 Genuína vontade de aprender e ajudar/ensinar;
-- 📫 Contato: gabrielaguiardantas@yahoo.com.br;
+- 📫 Contato: gabrielaguiardantas@gmail.com;
 
 **Tecnologias e ferramentas:** 
 
