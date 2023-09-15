@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Oi, Eu sou Gabriel Aguiar Dantas, desenvolvedor web FULL-STACK :technologist: em formação.
+## Oi, Eu sou Gabriel Aguiar Dantas, desenvolvedor web FULL-STACK :technologist:.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
