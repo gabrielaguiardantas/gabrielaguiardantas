@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 Economista por formação (Universidade Federal do Espírito Santo), trabalhei como Agente de Pesquisa e mapeamento do IBGE e pude estar em contato com todo tipo de família e classe social. Esse trabalho me proporcionou desenvolver habilidades comunicativas, seja realizando pesquisas sociais in loco (domicílio) seja ajudando outros agentes com dificuldade ou em treinamento (supervisão). 
 
-Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudança para uma área que sempre gostei (tecnologia e computadores). Desejo atuar como Desenvolvedor Web e estou me capacitando nas stacks React, Redux, Javascript, HTML, CSS, Typescript, Sql, mySQL, Docker, Python, MongoDB dentre outras...
+Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudança para uma área que sempre gostei (tecnologia e computadores). Desejo atuar como Desenvolvedor Web e me formei no curso de Desenvolvimento Web da [Trybe](https:www.betrybe.com).
 
 
 
@@ -27,8 +27,8 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Code typing-bro" src="https://user-images.githubusercontent.com/110852595/210355940-a51b0530-877b-4ac9-a776-472af9c5a50e.svg" />
 
-- 👨🏽‍💻 Estudante da Trybe, Desenvolvimento Web;
-- 🌱 Estou terminando o módulo eletivo em Python (Último módulo do curso);
+- 👨🏽‍💻 Desenvolvimento Web;
+- 🌱 Em processo de busca por uma nova stack e aprendendo sobre processos seletivos;
 - :video_game: Apaixonado por games, RPGs em especial;
 - :baby: Pai do Gael;
 - 💬 Genuína vontade de aprender e ajudar/ensinar;
