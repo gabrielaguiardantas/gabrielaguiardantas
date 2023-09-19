@@ -79,7 +79,7 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/-Chai-%23F6ECD7?style=for-the-badge&logo=chai&logoColor=white)
+![Chai](https://img.shields.io/badge/-Chai-%23F6ECD7?style=for-the-badge&logo=chai&logoColor=853232)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-%23E34F26?style=for-the-badge&logo=pytest&logoColor=white)
 
