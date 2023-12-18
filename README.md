@@ -43,6 +43,14 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
     Projetos desenvolvidos na Trybe
 </a>
 
+<a 
+  title="Site pessoal de Portfólio" 
+  role="link" 
+  rel="noopener noreferrer nofollow"                       
+  href="https://gabrielaguiardantas.github.io/">
+    Site pessoal de Portfólio
+</a>
+
 
 <h3>Tecnologias:</h3> 
 
