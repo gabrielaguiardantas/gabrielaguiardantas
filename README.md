@@ -1,60 +1,34 @@
-<h2> Oi, Eu sou Gabriel Aguiar Dantas, desenvolvedor web FULL-STACK :technologist: </h2>
+# Gabriel Aguiar Dantas · Desenvolvedor Full Stack
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gabrielaguiardantas)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaguiardantas/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielaguiardantas/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrielaguiardantas@gmail.com)
-[![Yahoo](https://img.shields.io/badge/Yahoo!-6001D2?style=flat&logo=Yahoo!&logoColor=white)](mailto:gabrielaguiardantas@yahoo.com.br)
-
-&nbsp;
-
-<h3>Sobre mim:</h3>
-
-Economista por formação (Universidade Federal do Espírito Santo), trabalhei como Agente de Pesquisa e mapeamento do IBGE e pude estar em contato com todo tipo de família e classe social. Esse trabalho me proporcionou desenvolver habilidades comunicativas, seja realizando pesquisas sociais in loco (domicílio) seja ajudando outros agentes com dificuldade ou em treinamento (supervisão). 
-
-Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudança para uma área que sempre gostei (tecnologia e computadores). Desejo atuar como Desenvolvedor Web e me formei no curso de Desenvolvimento Web da [Trybe](https:www.betrybe.com).
-
-
-<img 
-  width="45%" 
-  align="right" 
-  alt="p typing-bro" 
+<img
+  width="35%"
+  align="right"
+  alt="Ilustração de uma pessoa programando no computador"
   src="https://user-images.githubusercontent.com/110852595/210355940-a51b0530-877b-4ac9-a776-472af9c5a50e.svg"
 />
 
+Sou Desenvolvedor Full Stack com quase 3 anos de experiência em uma Insurtech, onde desenvolvi e sustentei uma plataforma de seguros em produção com Node.js, React e MariaDB. Sou graduado em Ciências Econômicas (UFES) e graduando em Ciência da Computação (UVV), uma combinação que une visão de negócio e fundamentos técnicos. Estou aberto a novas oportunidades como Desenvolvedor Full Stack.
 
-<h3>Meus interesses pessoais:</h3>
+[![Portfólio](https://img.shields.io/badge/Portfólio-D97757?style=flat&logo=googlechrome&logoColor=white)](https://gabrielaguiardantas.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaguiardantas/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gabrielaguiardantas@gmail.com)
 
+## Experiência e formação
 
-- 👨🏽‍💻 Desenvolvimento Web;
-- 🌱 Em processo de busca por uma nova stack;
-- :video_game: Apaixonado por games, RPGs em especial;
-- :baby: Pai do Gael;
-- 💬 Genuína vontade de aprender e ajudar/ensinar;
-- 📫 Contato: gabrielaguiardantas@gmail.com;
+- **Ciências Econômicas ([UFES](https://www.ufes.br/))** ![Graduação: 2007 a 2012](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-2007%20%E2%80%93%202012-593D88?style=flat&labelColor=20232A)<br>
+  Base em análise de dados e visão de negócio, que levo para o desenvolvimento de software.
+- **Agente de Pesquisa e Mapeamento ([IBGE](https://www.ibge.gov.br/))** ![Experiência: 03/2017 a 03/2020](https://img.shields.io/badge/Experi%C3%AAncia-03%2F2017%20%E2%80%93%2003%2F2020-404D59?style=flat&labelColor=20232A)<br>
+  Coleta de dados em pesquisas oficiais, atualização do mapeamento em campo, supervisão e treinamento de agentes.
+- **[Trybe](https://www.betrybe.com/)** ![Formação: 08/2022 a 09/2023](https://img.shields.io/badge/Forma%C3%A7%C3%A3o-08%2F2022%20%E2%80%93%2009%2F2023-593D88?style=flat&labelColor=20232A)<br>
+  Formação intensiva em Desenvolvimento Web Full Stack que marcou minha entrada na tecnologia, com módulos de front-end, back-end, Ciência da Computação e testes automatizados, todos baseados em projetos práticos.
+- **[Fitinsur](https://www.fitinsur.com.br/) (Insurtech)** ![Experiência: 01/2024 a 10/2026](https://img.shields.io/badge/Experi%C3%AAncia-01%2F2024%20%E2%80%93%2010%2F2026-404D59?style=flat&labelColor=20232A)<br>
+  Desenvolvimento e sustentação de uma plataforma de seguros usada por três seguradoras em cotação, emissão de apólices, endossos, renovações e análise de crédito. Entreguei mais de 150 tickets entre novas funcionalidades e correções de bugs em produção.
+- **Ciência da Computação ([UVV](https://www.uvv.br/))** ![Graduação: 07/2026 a 07/2030, em andamento](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-07%2F2026%20%E2%80%93%2007%2F2030%20%C2%B7%20em%20andamento-238636?style=flat&labelColor=20232A)<br>
+  Fundamentos de algoritmos, estruturas de dados e arquitetura de software.
 
-<h3>Meus projetos:</h3>
+## Tecnologias
 
-<a 
-  title="Projetos desenvolvidos na Trybe" 
-  role="link" 
-  rel="noopener noreferrer nofollow"                       
-  href="https://github.com/gabrielaguiardantas/Trybe/tree/main/Trybe-projetos">
-    Projetos desenvolvidos na Trybe
-</a>
-
-<a 
-  title="Site pessoal de Portfólio" 
-  role="link" 
-  rel="noopener noreferrer nofollow"                       
-  href="https://gabrielaguiardantas.github.io/">
-    Site pessoal de Portfólio
-</a>
-
-
-<h3>Tecnologias:</h3> 
-
-<h4>Linguagens</h4>
+### Linguagens
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,9 +36,7 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
-<h4> Frameworks e Bibliotecas</h4>
-  
+### Frameworks e Bibliotecas
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -75,14 +47,14 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 ![Jwt](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+### Banco de Dados e ORM
 
-<h4> Banco de Dados e ORM</h4>
-
+![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-1572B6?style=for-the-badge&logo=sequelize&logoColor=white)
 
-<h4> Testes</h4>
+### Testes
 
 ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -91,13 +63,13 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-%23E34F26?style=for-the-badge&logo=pytest&logoColor=white)
 
-<h4> Versionamento e Deploy </h4>
+### Versionamento e Deploy
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<h4> IDEs e ferramentas diversas</h4>
+### IDEs e ferramentas diversas
 
 ![VsCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-%23000000?style=for-the-badge&logo=thunder-client&logoColor=white)
@@ -106,23 +78,19 @@ Após o nascimento do meu primeiro filho resolvi iniciar esse projeto de mudanç
 ![Trello](https://img.shields.io/badge/-Trello-%23026AA7?style=for-the-badge&logo=trello&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img 
-  width="53%" 
-  align="left" 
-  alt="Gabriel Aguiar Dantas's github stats" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielaguiardantas&show_icons=true&include_all_commits=true&hide_border=true&locale=pt-br&theme=transparent"
-/>
-<img 
-  width="40%" 
-  align="right" 
-  alt="Gabriel Aguiar Dantas's github top language stats" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielaguiardantas&hide_border=true&locale=pt-br&layout=compact&theme=transparent"
-/>
+## Projetos em destaque
 
-<img
-  align="center"
-  alt="ViewCount" 
-  src="https://komarev.com/ghpvc/?username=gabrielaguiardantas&label=visitantes&color=blue&style=plastic" 
-/>
+> O código do meu trabalho na Fitinsur é privado da empresa. Por isso, os projetos abaixo, com exceção do portfólio, vêm da minha formação na Trybe.
 
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [Portfólio](https://github.com/gabrielaguiardantas/gabrielaguiardantas.github.io) | Meu site pessoal, em evolução para a v2.0, com testes E2E e deploy automatizado. [Ver no ar](https://gabrielaguiardantas.github.io/) | TypeScript, React, Vite, Playwright, GitHub Actions |
+| [Trybe Futebol Clube](https://github.com/gabrielaguiardantas/project-trybe-futebol-clube) | API REST de partidas e classificação de um campeonato de futebol, com autenticação JWT e testes de integração. | TypeScript, Node.js, Express, Sequelize, MySQL, Mocha, Chai, Sinon |
+| [Blogs API](https://github.com/gabrielaguiardantas/project-blogs-api) | API REST para publicação de posts em blog, com autenticação JWT. | Node.js, Express, Sequelize, MySQL |
+| [Trybesmith](https://github.com/gabrielaguiardantas/project-trybesmith) | API REST de uma ferraria de RPG, com cadastro de produtos, autenticação JWT e arquitetura MSC. | TypeScript, Node.js, Express, MySQL, Docker |
+| [Recipes App](https://github.com/gabrielaguiardantas/project-recipes-app) | Aplicação front-end de receitas desenvolvida em grupo, com testes de componentes. | React, React Router, React Testing Library |
+| [Super Portfólio](https://github.com/gabrielaguiardantas/project-super-portfolio) | Projeto final da especialização em Python da Trybe: CRUD de portfólios com autenticação JWT, em que cada usuário edita apenas os dados que criou. | Python, Django, Django REST Framework, MySQL |
 
+## Entre a cadeira e o monitor
+
+Foi depois do nascimento do Gael, meu primeiro filho, que decidi migrar para uma área de que sempre gostei: tecnologia e computadores. Gosto de aprender e de ajudar quem está aprendendo, algo que já fazia ao treinar novos agentes no IBGE. No tempo livre, sou apaixonado por games, em especial RPGs 🎮.
