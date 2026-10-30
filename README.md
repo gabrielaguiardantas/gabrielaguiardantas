@@ -15,15 +15,15 @@ Sou Desenvolvedor Full Stack com quase 3 anos de experiência em uma Insurtech, 
 
 ## Experiência e formação
 
-- **Ciências Econômicas ([UFES](https://www.ufes.br/))** ![Graduação: 2007 a 2012](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-2007%20%E2%80%93%202012-593D88?style=flat&labelColor=20232A)<br>
+- **Ciências Econômicas ([UFES](https://www.ufes.br/))** <img src="https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-2007%20%E2%80%93%202012-593D88?style=flat&labelColor=20232A" alt="Graduação: 2007 a 2012" align="top"><br>
   Base em análise de dados e visão de negócio, que levo para o desenvolvimento de software.
-- **Agente de Pesquisa e Mapeamento ([IBGE](https://www.ibge.gov.br/))** ![Experiência: 03/2017 a 03/2020](https://img.shields.io/badge/Experi%C3%AAncia-03%2F2017%20%E2%80%93%2003%2F2020-404D59?style=flat&labelColor=20232A)<br>
+- **Agente de Pesquisa e Mapeamento ([IBGE](https://www.ibge.gov.br/))** <img src="https://img.shields.io/badge/Experi%C3%AAncia-03%2F2017%20%E2%80%93%2003%2F2020-404D59?style=flat&labelColor=20232A" alt="Experiência: 03/2017 a 03/2020" align="top"><br>
   Coleta de dados em pesquisas oficiais, atualização do mapeamento em campo, supervisão e treinamento de agentes.
-- **[Trybe](https://www.betrybe.com/)** ![Formação: 08/2022 a 09/2023](https://img.shields.io/badge/Forma%C3%A7%C3%A3o-08%2F2022%20%E2%80%93%2009%2F2023-593D88?style=flat&labelColor=20232A)<br>
+- **[Trybe](https://www.betrybe.com/)** <img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o-08%2F2022%20%E2%80%93%2009%2F2023-593D88?style=flat&labelColor=20232A" alt="Formação: 08/2022 a 09/2023" align="top"><br>
   Formação intensiva em Desenvolvimento Web Full Stack que marcou minha entrada na tecnologia, com módulos de front-end, back-end, Ciência da Computação e testes automatizados, todos baseados em projetos práticos.
-- **[Fitinsur](https://www.fitinsur.com.br/) (Insurtech)** ![Experiência: 01/2024 a 10/2026](https://img.shields.io/badge/Experi%C3%AAncia-01%2F2024%20%E2%80%93%2010%2F2026-404D59?style=flat&labelColor=20232A)<br>
+- **[Fitinsur](https://www.fitinsur.com.br/) (Insurtech)** <img src="https://img.shields.io/badge/Experi%C3%AAncia-01%2F2024%20%E2%80%93%2010%2F2026-404D59?style=flat&labelColor=20232A" alt="Experiência: 01/2024 a 10/2026" align="top"><br>
   Desenvolvimento e sustentação de uma plataforma de seguros usada por três seguradoras em cotação, emissão de apólices, endossos, renovações e análise de crédito. Entreguei mais de 150 tickets entre novas funcionalidades e correções de bugs em produção.
-- **Ciência da Computação ([UVV](https://www.uvv.br/))** ![Graduação: 07/2026 a 07/2030, em andamento](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-07%2F2026%20%E2%80%93%2007%2F2030%20%C2%B7%20em%20andamento-238636?style=flat&labelColor=20232A)<br>
+- **Ciência da Computação ([UVV](https://www.uvv.br/))** <img src="https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-07%2F2026%20%E2%80%93%2007%2F2030%20%C2%B7%20em%20andamento-238636?style=flat&labelColor=20232A" alt="Graduação: 07/2026 a 07/2030, em andamento" align="top"><br>
   Fundamentos de algoritmos, estruturas de dados e arquitetura de software.
 
 ## Tecnologias
