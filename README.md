@@ -85,7 +85,7 @@ Sou Desenvolvedor Full Stack com quase 3 anos de experiência em uma Insurtech, 
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [Portfólio](https://github.com/gabrielaguiardantas/gabrielaguiardantas.github.io) | Meu site pessoal, em evolução para a v2.0, com testes E2E e deploy automatizado. [Ver no ar](https://gabrielaguiardantas.github.io/) | TypeScript, React, Vite, Playwright, GitHub Actions |
+| [Portfólio](https://github.com/gabrielaguiardantas/gabrielaguiardantas.github.io) | Meu site pessoal, com testes E2E e deploy automatizado. [Ver no ar](https://gabrielaguiardantas.github.io/) | TypeScript, React, Vite, Playwright, GitHub Actions |
 | [Trybe Futebol Clube](https://github.com/gabrielaguiardantas/project-trybe-futebol-clube) | API REST de partidas e classificação de um campeonato de futebol, com autenticação JWT e testes de integração. | TypeScript, Node.js, Express, Sequelize, MySQL, Mocha, Chai, Sinon |
 | [Blogs API](https://github.com/gabrielaguiardantas/project-blogs-api) | API REST para publicação de posts em blog, com autenticação JWT. | Node.js, Express, Sequelize, MySQL |
 | [Trybesmith](https://github.com/gabrielaguiardantas/project-trybesmith) | API REST de uma ferraria de RPG, com cadastro de produtos, autenticação JWT e arquitetura MSC. | TypeScript, Node.js, Express, MySQL, Docker |
